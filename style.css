@@ -1,0 +1,99 @@
+*{
+    margin:0;
+    padding:0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+      body{
+    background-color: blanchedalmond;
+   flex:2;
+  }
+  input[type="text"], input[type=password]{
+  width: 30%;
+  height: 30px;
+  padding: 12px,15px;
+  margin: 8px;
+  display: inline-block;
+  border: 1px solid white;
+  box-sizing: border-box;
+  }
+  label{
+    margin-right: 320px;
+  }
+  .pass{
+    margin-right: 390px;
+  }
+ 
+ h1{
+  text-align: left;
+  line-height: 150px;
+  margin-left: 500px;
+ }
+ .container{
+  box-sizing: border-box;
+  text-align: center;
+  height: 24px;
+ }
+ .forgotpassword{
+ text-align: center;
+ margin: 5px;
+ padding: 60px;
+ }
+ input[type=submit]{
+  line-height: 60px;
+  margin-right:380px;
+  background-color: blue;
+  height: 50px;
+  color: white;
+  width: 100px;
+  box-sizing: border-box;
+  border-radius: 5px;
+  cursor: pointer;
+ }
+ input[type=submit]:hover{
+  background-color:plum;
+ }
+ .images {
+  box-sizing: border-box;
+  margin-right: 200px;
+  border-color: aquamarine;
+  line-height: 100px;
+  border-radius: 8px;
+}
+
+ .twitter {
+  padding: auto;
+  margin-right: 10px;
+  border-radius: 2px;
+  border: 3px solid;
+  background-color: antiquewhite;
+}
+.linkedin {
+  padding: auto;
+  margin-right: 10px;
+  box-sizing: border-box;
+  border: 3px solid black;
+}
+.gmail {
+  padding: auto;
+  margin-right: 10px;
+  box-sizing: border-box;
+  border: 3px solid black;
+}
+.Facebook {
+  padding: auto;
+  margin-right: 10px;
+  border: 3px solid black;
+}
+.github {
+  padding: auto;
+  margin-right: 10px;
+  border-radius: 2px;
+  border: 3px solid black;
+}
+ p {
+  margin-right: 300px;
+  margin-top: 20px;
+  font-weight: bold;
+  color: black;
+}
+
